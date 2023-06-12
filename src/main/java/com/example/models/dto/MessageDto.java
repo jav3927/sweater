@@ -2,7 +2,7 @@ package com.example.models.dto;
 
 import com.example.models.Message;
 import com.example.models.User;
-import com.example.models.util.MessageHelper;
+import com.example.util.MessageHelper;
 import lombok.Getter;
 
 @Getter

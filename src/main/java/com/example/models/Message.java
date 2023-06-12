@@ -1,6 +1,6 @@
 package com.example.models;
 
-import com.example.models.util.MessageHelper;
+import com.example.util.MessageHelper;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

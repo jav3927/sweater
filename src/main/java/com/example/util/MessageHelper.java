@@ -1,4 +1,4 @@
-package com.example.models.util;
+package com.example.util;
 
 import com.example.models.User;
 
